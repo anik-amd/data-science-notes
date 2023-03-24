@@ -90,7 +90,7 @@ conda env remove -n {env_name}
 
 _Make sure you are not in the environment._
 
-11. Sharing environments across platfroms
+11. Sharing environments across platforms
 
 ```
 conda env export --from-history > environment.yml
